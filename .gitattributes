@@ -1,2 +1,2 @@
-/Users/suyee.lee/mesoscale-connectivity-tutorial/data filter=lfs diff=lfs merge=lfs -text
+/Users/suyee.lee/mesoscale-connectivity-tutorial/data/ filter=lfs diff=lfs merge=lfs -text
 data/** filter=lfs diff=lfs merge=lfs -text
